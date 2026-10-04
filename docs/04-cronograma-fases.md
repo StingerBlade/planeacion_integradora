@@ -21,7 +21,7 @@ Sprint actual. Tarjetas individuales por persona:
 - **Angel (SM):** GDD v1.0 (duelo 1v1 en línea vía Photon PUN2, mapa de 3 pasillos, NPCs simulados localmente, sin oso policía) + ceremonias de la semana agendadas.
 - **Guillermo Martínez (PO):** hoja de balance cerrada + backlog de la Fase 2 priorizado + arrancar el app en Flutter (proyecto + pantalla de ranking con datos de prueba).
 - **Hugo Baeza:** guía de estilo low poly aprobada + boceto del escenario de 3 pasillos.
-- **G. González:** repositorio de GitHub listo (carpetas, prefabs, convención de commits); prefabs del jugador preparados para instanciarse en red (carpeta `Resources`, requisito de `PhotonNetwork.Instantiate`).
+- **G. González:** repositorio de GitHub listo (carpetas, prefabs, convención de commits); prefabs del jugador preparados para instanciarse en red (carpeta `Resources`, requisito de `PhotonNetwork.Instantiate`). **Tarea adicional agregada hoy (4-oct), a petición propia:** arrancar el HUD de vida (barra) y el feedback visual al recibir daño; se integra con el sistema real de vida/daño en la Fase 3, Semana 3.
 - **Jesús Castilla:** prototipo de NavMesh con un NPC que patrulla, sin arte final.
 - **Dylan Muñoz — Configurar Photon PUN2:**
   1. Crear cuenta de Photon, importar el SDK PUN2 y probar conectar 2 instancias a la misma sala.
@@ -58,7 +58,7 @@ Lideran Dylan Muñoz (red), Jesús Castilla y G. González. Multiplayer con Phot
 > **Fuera del MVP:** el oso "policía" (IA que vigila si se agrede a los NPCs) no se construye en esta fase (ver sección 8). El castigo de −50 puntos por matar a un NPC ya cubre ese propósito.
 
 **Semana 3 (19–25 oct):**
-- G. González: HUD de vida (barra que se actualiza en tiempo real) y feedback visual al recibir daño.
+- G. González: integrar el HUD de vida y el feedback de daño (arrancado en Fase 1, ver arriba) con el sistema real de vida/daño/respawn.
 - G. González: combate cuerpo a cuerpo sincronizado por RPC de Photon + golpe crítico a la cabeza (oneshot).
 - Dylan: sala de Photon funcional — los 2 jugadores se emparejan y se instancian en red (`PhotonNetwork.Instantiate`).
 - Jesús: sistema de vida, daño y respawn sincronizado por RPC/PhotonView.
