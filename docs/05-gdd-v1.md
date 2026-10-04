@@ -82,6 +82,61 @@ Un único escenario: **"La Juguetería"**, dividido en 3 pasillos. Estanterías 
 - Interfaz con fondo propio y voces de personajes.
 - Animación ragdoll al correr.
 
+<details>
+<summary>Historial: versión anterior a U1E4 (antes del 4-oct-2026), conservada sin cambios</summary>
+
+### 5. Mecánicas principales
+
+- Combate PvP con armas recolectables.
+- Interacción con NPCs (golpearlos por error penaliza).
+- Sigilo y camuflaje (esconderse o actuar como NPC).
+- Detección (correr/golpear/portar arma delata).
+- Golpe crítico a la cabeza = oneshot + respawn.
+
+> **Importante:** se descarta la mecánica de "policía" que detecta agresiones a NPCs (aparecía en el Portafolio 1), ya no se construye. Única consecuencia de dañar a un NPC: penalización de puntos. Ver [08-post-entrega-y-fuera-del-mvp.md](08-post-entrega-y-fuera-del-mvp.md).
+
+### 6. Puntos y condiciones de victoria/derrota
+
+> Regla única, confirmada por Guillermo Martínez (PO) con la hoja de balance del equipo.
+
+La partida dura **10–15 minutos** y **gana quien tenga más puntos** al agotarse el tiempo. Al ser eliminado, el jugador **respawnea** y la partida sigue — no es muerte súbita, es combate continuo durante toda la duración de la partida.
+
+**Puntaje** (decide quién gana la partida):
+- Kill normal: **+200**
+- Kill con sigilo: **+350**
+- Matar a un NPC: **−50** (penalización)
+
+El ranking (PWA, ver sección 6 del índice) también se basa en partidas ganadas/perdidas.
+
+**Confirmado:** fuente = hoja de balance "BEARSTARDS/BASTARDOSOS" (ver [game-design/assets/hoja-de-balance-bearstards.png](game-design/assets/hoja-de-balance-bearstards.png)). Esta sección reemplaza una versión anterior que decía "por eliminación", que era incorrecta.
+
+### 7. Armas y objetos
+
+- Agujas para coser / estambre (arma blanca básica)
+- Trampa de ratones (movilidad/trampa)
+- Spray + mechero (lanzallamas improvisado)
+- Pistola de dardos con tachuelas (especial, rondas finales, 6 disparos, x2 puntos)
+- Ratoneras explosivas (trampa terrestre)
+- Rollos de hilo (curación menor)
+- Caja de galletas / costurero (curación mayor)
+- Casco (power-up de armadura)
+
+> Para el MVP de 8 semanas, el alcance real de armas programadas se recortó (ver Fases 2–4 en [04-cronograma-fases.md](04-cronograma-fases.md)): pistola de juguete, aguja de coser, caja de hilos (curación) y casco (armadura).
+
+### 8. Niveles y mapas
+
+Un único escenario: **"La Juguetería"**, dividido en 3 pasillos. Estanterías como muros que dividen secciones; juguetes inanimados como cobertura; ambientación de tienda departamental (anaqueles, luz de techo fluorescente). Un solo mapa en el MVP, sin niveles extra.
+
+### 9. Estilo visual y vestimenta
+
+- Low poly.
+- Marcas y accesorios parodia (nunca marcas reales, riesgo legal).
+- Tipografía base Comic Sans (alternativa libre: **Comic Neue**).
+- Interfaz con fondo propio y voces de personajes.
+- Animación ragdoll al correr.
+
+</details>
+
 ## 10. Multiplayer y red
 
 **Photon PUN2** (se descartaron LAN, Steam Relay, P2P manual — ver [03-decisiones.md](03-decisiones.md)): paquete oficial de Unity, capa gratis de 20 CCU, no depende de red compartida ni de Steam abierto.

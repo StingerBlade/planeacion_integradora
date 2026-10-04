@@ -1,6 +1,6 @@
 # Turbo Studios — Documentación del proyecto integrador
 
-**Equipo:** Turbo Studios. **Juego:** Little Bearstards (alt. Bastardosos). *(En el PDF de U1E4 se mantienen separados: equipo Turbo Studios, juego Little Bearstards.)*
+**Equipo:** Turbo Studios. **Juego:** Little Bearstards (alt. Bastardosos). *(En el PDF de U1E4 se mantienen separados: equipo Turbo Studios, juego Little Bearstards. Nota anterior, conservada: la tarjeta de Trello "[U1E4] (SM) Portada..." pedía unificar en un solo nombre para el PDF de entrega; quedaba pendiente de que el PO decidiera.)*
 
 Rama: `claude/festive-goldberg-f21iph` (NO mergear a `main` todavía — lo confirma Angel).
 

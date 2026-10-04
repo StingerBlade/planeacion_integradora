@@ -33,5 +33,26 @@ Descartados: estambre como arma, resortes y daño por desmembramiento.
 | Gorro de hélice | Boost invisible: +20 % de velocidad hasta ser eliminado. | Deseable |
 | Cajas de cartón y botes de basura | Escondites interactivos. | Deseable |
 
+
+<details>
+<summary>Historial: versión anterior a U1E4 (antes del 4-oct-2026), conservada sin cambios</summary>
+
+## 7. Armas y objetos
+
+El arsenal incluye armas blancas, de fuego y trampas terrestres, todo con una temática de costura o estilo cartoon.
+
+| Objeto | Descripción / función |
+| --- | --- |
+| Agujas para coser / Estambre | Armas blancas básicas o utilitarias |
+| Trampa de ratones | Elemento de movilidad o trampa |
+| Spray para pelo y mechero | Lanzallamas improvisado |
+| Pistola de dardos con tachuelas | Arma especial de rondas finales (se anuncia su llegada); munición limitada (6 disparos); otorga puntos dobles al impacto |
+| Ratoneras explosivas | Trampa terrestre |
+| Rollos de hilo | Curación menor (Healing Boost menor) |
+| Caja de galletas (costurero) | Curación mayor (Healing Boost mayor) |
+| Casco | Power-up de "armadura" |
+
+</details>
+
 ---
 [← Puntos y condiciones de victoria](06-puntos-condiciones-victoria.md) · [Índice GDD](00-indice.md) · [Siguiente: Niveles y mapas →](08-niveles-mapas.md)
