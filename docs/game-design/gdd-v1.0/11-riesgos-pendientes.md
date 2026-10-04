@@ -4,7 +4,7 @@
 
 - Multijugador en línea vía Photon PUN2 (no local).
 - Sin oso policía / IA de vigilancia; solo penalización de -50 puntos por dañar a un NPC.
-- Condición de victoria única: por eliminación, no por puntaje ni temporizador.
+- Condición de victoria única: **por puntaje al agotarse el temporizador** (10-15 min), con respawn tras cada eliminación — no es muerte súbita. Confirmado por el PO con la hoja de balance, ver [Sección 6](06-puntos-condiciones-victoria.md).
 
 **Pendientes reales del equipo (de las tarjetas de Decisiones urgentes en Trello):**
 

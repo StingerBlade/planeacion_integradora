@@ -59,5 +59,5 @@ Para la entrega del 20-nov se distribuye el build por **itch.io** o un link de d
 
 ## Decisiones de diseño incorporadas al GDD (ver documento completo)
 
-- **Condición de victoria:** la partida es por **eliminación** (gana quien elimina al rival; termina en cuanto uno de los dos muere). No hay victoria por temporizador ni por más puntos sin eliminar al rival — esto resuelve una contradicción entre los documentos originales del equipo (uno hablaba de "gana quien tenga más puntos al final del tiempo", otro de "ser el último en pie").
+- **Condición de victoria:** la partida dura 10-15 min y **gana quien tenga más puntos** al agotarse el tiempo; al morir, el jugador respawnea y el combate continúa (no es muerte súbita). Confirmado por Guillermo Martínez (PO) con la hoja de balance del equipo — ver [05-gdd-v1.md · Sección 6](05-gdd-v1.md#6-puntos-y-condiciones-de-victoriaderrota). Esto resuelve una contradicción entre los documentos originales del equipo (uno hablaba de "gana quien tenga más puntos al final del tiempo", otro de "ser el último en pie") a favor de la primera versión.
 - **Oso "policía" (IA que vigila agresión a NPCs):** descartado del MVP. Ver [08-post-entrega-y-fuera-del-mvp.md](08-post-entrega-y-fuera-del-mvp.md).

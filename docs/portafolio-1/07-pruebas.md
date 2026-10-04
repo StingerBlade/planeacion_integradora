@@ -31,7 +31,7 @@ Se realizarán pruebas recorriendo diferentes partes del escenario para comproba
 
 Se probarán las diferentes situaciones que pueden provocar una victoria o derrota. Se verificará que el juego reconozca correctamente estas condiciones y que la partida termine o continúe según las reglas establecidas. **En este caso, la partida se terminará al terminar el temporizador y ganará el jugador con la mayor cantidad de puntos.**
 
-> ⚠️ Esta frase es la que contradice a la sección "Condiciones generales de victoria, derrota o finalización" del propio Portafolio 1 (que define la victoria como "ser el último en pie"). Ver el detalle en [docs/game-design/07-huecos-argumentales.md](../game-design/07-huecos-argumentales.md) y la regla única ya fijada en [GDD v1.0 · Sección 6](../game-design/gdd-v1.0/06-puntos-condiciones-victoria.md).
+> ✅ Esta frase **sí era la correcta**. Contradecía a la sección "Condiciones generales de victoria, derrota o finalización" del propio Portafolio 1 (que define la victoria como "ser el último en pie"), y el equipo confirmó con la hoja de balance que la regla de este párrafo (puntaje + temporizador, con respawn) es la que se programa. Ver el detalle en [docs/game-design/07-huecos-argumentales.md](../game-design/07-huecos-argumentales.md) y la regla fijada en [GDD v1.0 · Sección 6](../game-design/gdd-v1.0/06-puntos-condiciones-victoria.md).
 
 ## Errores o comportamientos inesperados
 
