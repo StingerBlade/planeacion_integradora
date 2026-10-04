@@ -58,6 +58,7 @@ Lideran Dylan Muñoz (red), Jesús Castilla y G. González. Multiplayer con Phot
 > **Fuera del MVP:** el oso "policía" (IA que vigila si se agrede a los NPCs) no se construye en esta fase (ver sección 8). El castigo de −50 puntos por matar a un NPC ya cubre ese propósito.
 
 **Semana 3 (19–25 oct):**
+- G. González: HUD de vida (barra que se actualiza en tiempo real) y feedback visual al recibir daño.
 - G. González: combate cuerpo a cuerpo sincronizado por RPC de Photon + golpe crítico a la cabeza (oneshot).
 - Dylan: sala de Photon funcional — los 2 jugadores se emparejan y se instancian en red (`PhotonNetwork.Instantiate`).
 - Jesús: sistema de vida, daño y respawn sincronizado por RPC/PhotonView.
