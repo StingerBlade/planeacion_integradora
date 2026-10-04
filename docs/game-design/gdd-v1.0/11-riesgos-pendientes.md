@@ -6,6 +6,8 @@
 - Sin oso policía / IA de vigilancia; solo penalización de -50 puntos por dañar a un NPC.
 - Condición de victoria única: **por puntaje al agotarse el temporizador** (10-15 min), con respawn tras cada eliminación — no es muerte súbita. Confirmado por el PO con la hoja de balance, ver [Sección 6](06-puntos-condiciones-victoria.md).
 
+- Contenido del MVP cerrado en el documento de diseño U1E4 (4-oct): armas, daño, objetos, vestimenta, fases y tabla de alcance Esencial/Deseable. Ver [entregas/u1e4-documento-diseno.md](../../entregas/u1e4-documento-diseno.md).
+
 **Pendientes reales del equipo (de las tarjetas de Decisiones urgentes en Trello):**
 
 - Confirmar con la profesora si este documento y el tablero de Trello cuentan como evidencia oficial de gestión del proyecto (vence 30-sep).

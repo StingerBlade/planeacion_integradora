@@ -1,6 +1,6 @@
 # Turbo Studios — Documentación del proyecto integrador
 
-**Equipo:** Turbo Studios. **Juego:** Little Bearstards (alt. Bastardosos). *(La tarjeta de Trello "[U1E4] (SM) Portada..." pide unificar en un solo nombre para el PDF de entrega — eso sigue pendiente de que el PO decida; aquí solo se distingue equipo vs. juego.)*
+**Equipo:** Turbo Studios. **Juego:** Little Bearstards (alt. Bastardosos). *(En el PDF de U1E4 se mantienen separados: equipo Turbo Studios, juego Little Bearstards.)*
 
 Rama: `claude/festive-goldberg-f21iph` (NO mergear a `main` todavía — lo confirma Angel).
 
@@ -20,6 +20,7 @@ Este índice reúne todo lo acordado por el equipo, tomado directo del tablero d
 8. [Después de la entrega (Steam) y fuera del MVP](08-post-entrega-y-fuera-del-mvp.md)
 9. [Repositorio, Git y CI/CD](09-repositorio-ci-cd.md)
 10. [Semana de colchón (14–20 nov), día por día](10-semana-colchon.md)
+11. [Entrega U1E4 — Documento de diseño](entregas/u1e4-documento-diseno.md)
 
 ## Fuente de verdad
 

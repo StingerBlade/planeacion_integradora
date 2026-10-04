@@ -10,9 +10,10 @@ El Portafolio 1 describía dos reglas de finalización incompatibles (una por ti
 | --- | --- |
 | Kill normal | +200 (eliminación de un oso) |
 | Kill con sigilo | +350 (eliminación sin ser visto) |
+| Kill con la pistola de dardos | +400 (puntos dobles, definido en U1E4) |
 | Matar a un NPC (bot) | –50 (penalización; un bot eliminado resta puntos) |
 
-El ranking del jugador (visible en la futura PWA) también se basa en partidas ganadas y perdidas, además del puntaje por partida.
+Al terminar cada partida, el resultado y los puntos se envían a la PWA de estadísticas (**Esencial** desde U1E4). El ranking del jugador (visible en la PWA) también se basa en partidas ganadas y perdidas, además del puntaje por partida.
 
 **Fuente:** hoja de balance ("BEARSTARDS / BASTARDOSOS", infografía de una página) subida por Guillermo Martínez — ver [docs/game-design/assets/hoja-de-balance-bearstards.png](../assets/hoja-de-balance-bearstards.png). Esa misma hoja, en el panel "El oso", todavía dice "su objetivo: ser el último en pie", que es la frase vieja que causaba la confusión con "eliminación" — el panel "Sistema de puntos" (el mismo documento) y la confirmación directa del PO son los que mandan.
 
