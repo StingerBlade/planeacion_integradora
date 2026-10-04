@@ -61,7 +61,7 @@ Al terminar cada partida se envían resultado y puntos a la PWA de estadísticas
 
 **MVP (Esencial):**
 - Aguja de coser: cuerpo a cuerpo, 25 de daño (4 golpes; 5 con casco).
-- Pistola de dardos estilo Nerf (= "pistola de juguete"): 35 por dardo (3 impactos; 4 con casco), 6 dardos sin recarga, aparece anunciada al iniciar la fase 2, +400 por kill.
+- Pistola de dardos estilo Nerf (= "pistola de juguete"): 50 por dardo (2 impactos; 3 con casco; hasta 3 eliminaciones con los 6 dardos — antes 35 por dardo, ajustado a propuesta del PO el 4-oct-2026), 6 dardos sin recarga, aparece anunciada al iniciar la fase 2, +400 por kill.
 - Rollo de hilo: cura 25.
 - Casco: boost **invisible**, vida máxima 100 → 125 hasta morir.
 

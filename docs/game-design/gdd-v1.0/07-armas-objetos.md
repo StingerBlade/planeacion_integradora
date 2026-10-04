@@ -9,7 +9,7 @@
 | Arma | Daño | Golpes para eliminar | Comportamiento |
 | --- | --- | --- | --- |
 | Aguja de coser | 25 por golpe · cabeza: oneshot | 4 (5 con casco) | Cuerpo a cuerpo, alcance corto, sin munición, un golpe cada 0.6 s. Permite la kill con sigilo (+350). |
-| Pistola de dardos (estilo Nerf, dardos de tachuela) | 35 por dardo · cabeza: oneshot | 3 (4 con casco) | A distancia, 6 dardos en total, sin recarga. Aparece una sola vez, anunciada, al iniciar la fase 2. Cada eliminación con ella vale +400 (puntos dobles). Es la misma "pistola de juguete" del Portafolio 1. |
+| Pistola de dardos (estilo Nerf, dardos de tachuela) | 50 por dardo · cabeza: oneshot | 2 (3 con casco) | A distancia, 6 dardos en total, sin recarga. Aparece una sola vez, anunciada, al iniciar la fase 2. Cada eliminación con ella vale +400 (puntos dobles). Con buena puntería alcanza para eliminar al rival hasta 3 veces (+1,200 puntos), lo que permite remontar. Es la misma "pistola de juguete" del Portafolio 1. *(Antes: 35 por dardo, 3 impactos; cambiado a propuesta del PO el 4-oct-2026.)* |
 
 ## Armas fuera del MVP (Deseable)
 
