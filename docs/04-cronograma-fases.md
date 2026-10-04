@@ -29,6 +29,10 @@ Sprint actual. Tarjetas individuales por persona:
   3. Documentar en 1 página cómo usar PhotonView y RPCs, y compartirla con G. González y Jesús antes del viernes.
   4. Apoyar a G. González con la arquitectura del repo: dejar los prefabs listos para sincronizarse en red.
 
+  > ⚠️ **Esta tarea terminó siendo resuelta por G. González, no por Dylan** (la tarjeta de Trello está completa pero con G. González como miembro). Dylan no tuvo participación activa en la Fase 1.
+
+- **Dylan Muñoz — Diseño del HUD (tarea nueva, agregada hoy 4-oct):** diseño visual del HUD (botones, layout de barra de vida, temporizador y puntos en pantalla) — la parte de diseño/UI, separada del HUD funcional (datos/lógica) que ya tiene G. González. Decidido en el chat del equipo: ya que Dylan tenía contemplado el HUD completo más adelante (Fase 4, Semana 5), tiene sentido que adelante la parte visual ahora. Se le asigna esta tarea explícitamente para que empiece a aportar al equipo.
+
 ## Fase 2 — Osos y escenario jugable (5 al 18 de octubre)
 
 Lideran Hugo Baeza y G. González. El movimiento del oso debe quedar listo para sincronizarse por red en la Fase 3.
