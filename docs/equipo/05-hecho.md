@@ -11,4 +11,4 @@ Fuente: lista "✅ Hecho".
 **Impacto en el plan:** Dylan arrancó esa semana con la configuración de Photon (ver tarjeta de Fase 1). Las tareas de la Fase 3 (Núcleo PvP) ya se actualizaron para trabajo en red. Los NPCs de camuflaje NO se sincronizan por red: cada cliente los simula de forma local e independiente, solo se sincronizan los 2 jugadores humanos.
 
 ---
-[← Backlog Fases 2-5](04-backlog-fases-2-5.md) · [Índice general](../game-design/00-indice.md)
+[← Backlog Fases 2-5](04-backlog-fases-2-5.md) · [Índice general](../game-design/00-indice.md) · [Siguiente: Pendientes U1E4 →](06-u1e4-pendientes.md)

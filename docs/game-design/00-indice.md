@@ -2,6 +2,8 @@
 
 Índice de toda la información de preproducción recopilada (Unidad 1) y del GDD v1.0 del equipo, extraída del documento colaborativo de Claude Docs y organizada en archivos independientes para consultarla más rápido.
 
+> **Equipo: Turbo Studios. Juego: Little Bearstards (alt. Bastardosos).** Para el plan consolidado más reciente (cronograma semana a semana, PWA, app Flutter, CI/CD) ver [docs/README.md](../README.md).
+
 ## Ficha de concepto y Beat Sheet
 
 1. [Ficha de concepto v0.1](01-ficha-concepto.md)

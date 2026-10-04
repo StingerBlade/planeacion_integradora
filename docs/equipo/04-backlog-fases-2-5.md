@@ -2,6 +2,8 @@
 
 Fuente: lista "📋 Backlog del producto (Fases 2-5)" del tablero de Trello.
 
+> ⚠️ **Actualización posterior:** las tarjetas "Después del 20-nov" de PWA y App Flutter que se describen abajo **ya no están vigentes**. El equipo corrigió el alcance: PWA y app Flutter ahora deben estar listas para el **13-nov** junto con el juego (ya no son post-entrega). Ver el detalle completo y actualizado en [docs/06-pwa.md](../06-pwa.md) y [docs/07-app-flutter.md](../07-app-flutter.md), y el porqué del cambio en [docs/03-decisiones.md](../03-decisiones.md). Se deja el texto original abajo tal cual estaba en Trello en ese momento, para no perder el historial.
+
 ## Fase 2 — 5 al 18 oct: Osos y escenario jugable
 
 Dos semanas. Lideran Hugo Baeza y G. González.
