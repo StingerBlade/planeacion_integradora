@@ -41,5 +41,7 @@ Qué hace el equipo de desarrollo en Scrum:
 - **Jesús:** NPCs con NavMesh, vida/daño/respawn, detección y puntos; documentación técnica; co-desarrolla la app en Flutter con Guillermo Martínez (post-20-nov).
 - **Dylan (Lead técnico de integración y red):** configura y mantiene Photon, sincronización, integración de todos los sistemas, build final, HUD y menús, y además la publicación en Steam (post-20-nov, junto con Ángel) — es el desarrollador que más sistemas distintos conecta entre sí, por eso es el referente técnico del equipo para dudas de integración.
 
+  > ⚠️ **Pendiente del equipo (4-oct):** Dylan no tiene cuenta en el tablero de Trello (no aparece en la lista de miembros), por lo que ninguna tarjeta se le puede asignar como responsable real, solo mencionarlo por nombre en el texto. Además, no tuvo participación activa en la Fase 1 — su tarjeta "Configurar Photon PUN2" terminó resuelta por G. González. El equipo le asignó una tarea nueva hoy (diseño del HUD) para que empiece a aportar; ver [sprint Fase 1](03-sprint-fase1.md) y [cronograma](../04-cronograma-fases.md). Se recomienda invitarlo al tablero de Trello cuanto antes.
+
 ---
 [← Índice general](../game-design/00-indice.md) · [Siguiente: Hitos del proyecto →](01-hitos.md)
