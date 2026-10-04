@@ -16,6 +16,18 @@
 
 Ver [docs/game-design/gdd-v1.0/00-indice.md](gdd-v1.0/00-indice.md).
 
+## Equipo y gestión del proyecto (Trello)
+
+Ver [docs/equipo/00-roles.md](../equipo/00-roles.md): roles, hitos, decisiones urgentes, sprint de Fase 1, backlog de Fases 2-5.
+
+## Portafolio 1 — secciones técnicas completas
+
+Ver [docs/portafolio-1/00-indice.md](../portafolio-1/00-indice.md): planificación semanal, desarrollo, pruebas y conclusión de viabilidad del documento oficial del equipo.
+
+## Análisis de la lectura de Moodle (Unidad 1)
+
+Ver [docs/analisis-lectura-unidad1.md](../analisis-lectura-unidad1.md): comparación entre lo que pide el curso y lo que ya tenía el equipo.
+
 ## Fuentes
 
 - Tablero de Trello "Little Bearstards - Proyecto Integrador".
