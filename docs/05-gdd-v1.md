@@ -39,18 +39,18 @@ Jugadores +13, en PC, partidas competitivas cortas de sigilo y deducción social
 
 ## 6. Puntos y condiciones de victoria/derrota
 
-> Regla única, resuelve una contradicción entre los documentos originales del equipo.
+> Regla única, confirmada por Guillermo Martínez (PO) con la hoja de balance del equipo.
 
-La partida es **por eliminación**: gana quien elimina al rival; termina en cuanto uno de los dos muere. No hay victoria por temporizador ni por más puntos sin eliminar al rival (el timer de 10–15 min es solo duración esperada).
+La partida dura **10–15 minutos** y **gana quien tenga más puntos** al agotarse el tiempo. Al ser eliminado, el jugador **respawnea** y la partida sigue — no es muerte súbita, es combate continuo durante toda la duración de la partida.
 
-**Puntaje** (para ranking/estadísticas, no decide quién gana la partida):
+**Puntaje** (decide quién gana la partida):
 - Kill normal: **+200**
 - Kill con sigilo: **+350**
 - Matar a un NPC: **−50** (penalización)
 
-El ranking (PWA, ver sección 6 del índice) se basa en partidas ganadas/perdidas.
+El ranking (PWA, ver sección 6 del índice) también se basa en partidas ganadas/perdidas.
 
-**Pendiente:** Guillermo Martínez (PO) debe confirmar esta regla en Sprint Review antes de programarse.
+**Confirmado:** fuente = hoja de balance "BEARSTARDS/BASTARDOSOS" (ver [game-design/assets/hoja-de-balance-bearstards.png](game-design/assets/hoja-de-balance-bearstards.png)). Esta sección reemplaza una versión anterior que decía "por eliminación", que era incorrecta.
 
 ## 7. Armas y objetos
 
@@ -90,7 +90,7 @@ Se sincronizan por red **solo los 2 jugadores humanos** (posición, animación, 
 **Ya resuelto en este GDD:**
 - Red online vía Photon (no local).
 - Sin oso policía.
-- Condición de victoria única por eliminación.
+- Condición de victoria única: por puntaje al agotarse el temporizador, con respawn (no es muerte súbita).
 
 **Pendiente real del equipo:**
 - Confirmar con la profesora si Trello + este documento cuentan como evidencia oficial (vence 30-sep).

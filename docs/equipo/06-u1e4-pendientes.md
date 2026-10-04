@@ -2,18 +2,18 @@
 
 Fuente: lista "🚀 Sprint actual (Fase 1 · 28 sep-4 oct)", tarjetas con prefijo `[U1E4]`. Son tareas nuevas encontradas al revisar el tablero (no estaban cuando se escribió el resto de esta documentación). "U1E4" parece ser la cuarta entrega de la Unidad 1 del curso.
 
-## [U1E4] (PO) Confirmar condición de victoria única: por eliminación
+## [U1E4] (PO) Confirmar condición de victoria única — ✅ resuelta
 
 **Responsable:** Product Owner (Guillermo Martínez). Apoya: Scrum Master (Ángel Arras) agenda el espacio en Sprint Review.
 
-**Qué falta:** el Portafolio 1 se contradice (victoria por eliminación vs. victoria por temporizador/puntos — ver [huecos argumentales](../game-design/07-huecos-argumentales.md)). El GDD v1.0 ya propone la regla única de eliminación, pero sigue **pendiente de aprobación formal del PO**.
+**Qué faltaba:** el Portafolio 1 se contradice (victoria por eliminación vs. victoria por temporizador/puntos — ver [huecos argumentales](../game-design/07-huecos-argumentales.md)).
 
-**Decisión requerida:**
-- [ ] Aprobar: gana quien elimina al rival; el temporizador es solo duración esperada.
-- [ ] El puntaje solo sirve para ranking/estadísticas, no decide al ganador.
-- [ ] Confirmar que se descarta el oso policía.
+**Decisión confirmada por el PO (con la hoja de balance del equipo):**
+- [x] Gana quien tenga más puntos al agotarse el temporizador de 10-15 min — **no** es por eliminación directa.
+- [x] Al ser eliminado, el jugador respawnea y la partida continúa; morir no termina el duelo.
+- [x] Confirmar que se descarta el oso policía (sigue vigente, solo queda la penalización de -50 puntos).
 
-**Criterio de terminado:** decisión registrada en un comentario de esta tarjeta, con fecha.
+Ver la regla completa en [GDD v1.0 · Sección 6](../game-design/gdd-v1.0/06-puntos-condiciones-victoria.md). Pendiente: registrar esta decisión como comentario en la tarjeta de Trello correspondiente, con fecha, para cumplir el criterio de terminado original de la tarjeta.
 
 ## [U1E4] (PO) Priorizar tabla "Alcance del proyecto" (Esencial / Deseable)
 
@@ -30,7 +30,7 @@ Fuente: lista "🚀 Sprint actual (Fase 1 · 28 sep-4 oct)", tarjetas con prefij
 | Multijugador 1v1 en línea (Photon PUN2) | Puntaje y ranking, PWA |
 | NPCs con IA simple y camuflaje | Voces, música original, ragdoll avanzado |
 | Sistema de vida + golpe crítico a la cabeza (oneshot/respawn) | Segundo nivel (oficina) |
-| Victoria por eliminación | Modo local de respaldo (Plan B de Photon) |
+| Victoria por puntaje al agotar el temporizador (con respawn) | Modo local de respaldo (Plan B de Photon) |
 | Mínimo 2 armas (aguja de coser + una de distancia) | |
 | 1 curación (rollo de hilo) y HUD básico | |
 

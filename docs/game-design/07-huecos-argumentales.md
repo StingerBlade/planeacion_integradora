@@ -14,7 +14,7 @@ El documento define la condición de victoria de dos formas incompatibles en sec
 
 Estas dos reglas producen partidas distintas: en una, un jugador puede "ganar por puntos" sin haber eliminado nunca al rival (basta con golpear NPCs con sigilo, aunque eso mismo esté penalizado si son inocentes); en la otra, la partida no puede terminar hasta que alguien muera, sin importar el tiempo. El equipo necesita elegir una sola regla antes de programarla — ahora mismo dos secciones del mismo documento describen dos juegos distintos.
 
-> **Resuelto en el GDD v1.0:** se fijó la regla de eliminación como condición de victoria/derrota; el puntaje queda solo para ranking/estadísticas. Ver [GDD v1.0 · Sección 6](gdd-v1.0/06-puntos-condiciones-victoria.md).
+> **Resuelto en el GDD v1.0 (confirmado por el PO con la hoja de balance del equipo):** la regla correcta es la de la primera fila de la tabla — gana quien tenga más puntos al agotarse el temporizador de 10-15 min. Morir no termina la partida: el jugador respawnea y el combate sigue hasta que se acaba el tiempo. La frase "último en pie" que aparece en otras partes de los documentos del equipo es la que estaba desactualizada. Ver [GDD v1.0 · Sección 6](gdd-v1.0/06-puntos-condiciones-victoria.md).
 
 ## Otros puntos a revisar (menores)
 

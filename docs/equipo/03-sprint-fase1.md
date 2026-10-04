@@ -16,6 +16,8 @@ Rol: Product Owner.
 
 Entregable: hoja de balance cerrada y backlog de la Fase 2 priorizado en el tablero.
 
+> **Entregada.** La hoja de balance es la infografía de una página "BEARSTARDS/BASTARDOSOS" — ver [docs/game-design/assets/hoja-de-balance-bearstards.png](../game-design/assets/hoja-de-balance-bearstards.png). De ahí sale el sistema de puntos confirmado en [GDD v1.0 · Sección 6](../game-design/gdd-v1.0/06-puntos-condiciones-victoria.md). En Trello la tarjeta aparece asignada a "Joel Ardido Nuñez" — es la cuenta de Google de Guillermo Martínez, no un integrante nuevo.
+
 ## Hugo Baeza — Concept art y escenario
 
 Rol: Modelado 3D.
