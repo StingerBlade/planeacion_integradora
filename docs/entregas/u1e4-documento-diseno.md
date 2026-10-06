@@ -6,6 +6,8 @@
 
 **Documento editable:** Google Docs, carpeta de Drive `101N/mascote` → [U1E4_TurboStudios](https://docs.google.com/document/d/1dvZfNnCs3BMLmb5zgk7mE7xWHq2dYJkjXyjP2McGP48/edit). Sigue el formato de las entregas anteriores de la materia (U1E1, U1E2).
 
+**Versión en presentación:** [assets/U1E4_TurboStudios_actualizado.pptx](assets/U1E4_TurboStudios_actualizado.pptx) — mismo contenido que el PDF, en formato de diapositivas y ya con el ajuste de la pistola de dardos (50 de daño / 2 impactos) incorporado.
+
 ## Contenido del documento
 
 Ficha técnica · 1. Género · 2. Público objetivo · 3. Historia · 4. Personajes · 5. Niveles · 6. Armas · 7. Vestimenta · 8. Objetos especiales · Alcance del proyecto.
