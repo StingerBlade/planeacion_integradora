@@ -5,7 +5,7 @@
 Proyecto integrador del equipo **Turbo Studios**. El videojuego se llama **Little Bearstards** (alterno: *Bastardosos*) — PC, género **Stealth PvP con deducción social y acción**, hecho en **Unity (C#)**, con arte 3D en **Blender**.
 
 - **Jugadores:** 2 (duelo 1 vs 1).
-- **Duración de partida:** 10–15 minutos.
+- **Duración de partida:** 10 minutos.
 - **Público objetivo:** jugadores +13 años.
 - **Multiplayer:** en línea, vía **Photon PUN2**.
 - **Mapa:** un único escenario, "La Juguetería", dividido en 3 pasillos.
@@ -43,7 +43,7 @@ Asesoras: Prof. Blanca Chavarría / Prof. Mascote (UTCH, IDGS101N).
 ## Plataformas y stack técnico
 
 - **Juego:** Unity, C#, Blender, Photon PUN2 (multiplayer online).
-- **PWA de ranking:** Django (Python).
-- **App móvil:** Flutter (Dart).
+- **PWA:** React + Vite (front) y Django REST Framework (back), con PostgreSQL en Supabase y hosting en Render.
+- **App móvil:** Flutter (Dart), wiki del juego sin conexión con la API.
 - **Gestión del proyecto:** Trello (tablero "Little Bearstards - Proyecto Integrador").
 - **Control de versiones:** Git + GitHub (se evaluó Plastic/Unity Version Control y se descartó el cambio por tiempo; ver [09-repositorio-ci-cd.md](09-repositorio-ci-cd.md)).

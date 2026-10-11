@@ -9,7 +9,7 @@ Nada de esta semana construye funcionalidad nueva — es 100% pruebas, correcci�
 | **14-nov (sábado)** | Playtest interno ronda 1 — todo el equipo |
 | **15-nov (domingo)** | Playtest interno ronda 2 — todo el equipo |
 | **16-nov (lunes)** | Corrección de bugs según los playtests — G. González, Jesús, Dylan · Balance final de armas y puntos — Angel · Documentación técnica de los sistemas del juego — Jesús |
-| **17-nov (martes)** | Prueba final de la PWA y del app Flutter con datos reales de los playtests — G. González, Guillermo Martínez, Jesús · Prueba de la conexión Photon con las 2 PCs reales que se usarán en la presentación · Pulido visual y música/SFX finales — Hugo, Guillermo Martínez y G. González |
+| **17-nov (martes)** | Prueba final de la PWA con datos reales de los playtests y de la app Flutter (wiki) — G. González, Guillermo Martínez, Jesús · Prueba de la conexión Photon con las 2 PCs reales que se usarán en la presentación · Pulido visual y música/SFX finales — Hugo, Guillermo Martínez y G. González |
 | **18-nov (miércoles)** | Build final de Windows — Dylan · Memoria / documento de pruebas — Angel |
 | **19-nov (jueves)** | Ensayo de la presentación — todo el equipo · Plan B ensayado: qué hacer si falla la conexión Photon el día de la entrega |
 | **20-nov (viernes)** | **ENTREGA FINAL** — todo el equipo: juego + PWA + app Flutter + documentación |

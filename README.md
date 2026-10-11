@@ -4,11 +4,11 @@ Videojuego **Little Bearstards** (alt. *Bastardosos*), proyecto integrador del e
 
 Stealth PvP 1v1 con deducción social, en Unity (C#) con multijugador en línea vía Photon PUN2. Dos osos de peluche se enfrentan en una juguetería a punto de cerrar, mezclándose entre NPCs para no ser descubiertos antes de eliminar a su rival.
 
-## Estado (9-oct-2026)
+## Estado (10-oct-2026)
 
 - **Fase 1 cerrada** (Sprint 1): GDD v1.0, arquitectura Unity, prototipo de NPC, Photon PUN2, balance/backlog y documento de diseño U1E4. Pendientes arrastrados: concept art, diseño del HUD, confirmación con la profesora, Plan B de Photon.
 - **Fase 2 en curso** (5–18 oct): oso jugable y escenario de 3 pasillos.
-- App Flutter y PWA ya arrancaron.
+- App Flutter y PWA ya arrancaron. El 10-oct se definieron la arquitectura, el modelo de datos, las sesiones (PWA + Unity) y el diseño de la PWA; la app Flutter pasa a ser una wiki del juego, sin conexión con la API. Ver [PWA](docs/06-pwa.md) y [decisiones](docs/03-decisiones.md).
 - Detalle: [histórico de sprints](docs/equipo/07-historico-sprints.md).
 
 ## Documentación
@@ -26,7 +26,7 @@ Toda la planeación, diseño y gestión del proyecto vive en [`docs/`](docs/READ
 | --- | --- |
 | [StingerBlade/planeacion_integradora](https://github.com/StingerBlade/planeacion_integradora) | Planeación y documentación |
 | [KonigAstaroth/Bearstards](https://github.com/KonigAstaroth/Bearstards) | Videojuego (Unity) |
-| [StingerBlade/BEARSTARDS_PWA](https://github.com/StingerBlade/BEARSTARDS_PWA) | PWA de ranking |
+| [StingerBlade/BEARSTARDS_PWA](https://github.com/StingerBlade/BEARSTARDS_PWA) | PWA (ranking, cuentas y API del juego) |
 
 ## Entregas clave
 

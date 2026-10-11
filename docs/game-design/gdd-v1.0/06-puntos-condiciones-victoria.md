@@ -2,7 +2,7 @@
 
 El Portafolio 1 describía dos reglas de finalización incompatibles (una por tiempo/puntos, otra por eliminación — ver [huecos argumentales](../07-huecos-argumentales.md)). **Confirmado por Guillermo Martínez (Product Owner), con base en la hoja de balance del equipo:** la regla correcta es por puntaje, no por eliminación directa.
 
-**Condición de victoria/derrota (la que se programa).** La partida dura 10-15 minutos y gana quien tenga más puntos al terminar el tiempo. Al ser eliminado, el jugador **respawnea** (vuelve a aparecer) y la partida continúa — no es "una muerte y se acabó". El combate es continuo durante toda la duración de la partida; morir una vez no termina el duelo, solo le cuesta el intento al jugador eliminado (y le da los puntos de la kill al otro).
+**Condición de victoria/derrota (la que se programa).** La partida dura 10 minutos y gana quien tenga más puntos al terminar el tiempo. Al ser eliminado, el jugador **respawnea** (vuelve a aparecer) y la partida continúa — no es "una muerte y se acabó". El combate es continuo durante toda la duración de la partida; morir una vez no termina el duelo, solo le cuesta el intento al jugador eliminado (y le da los puntos de la kill al otro).
 
 **Puntaje (decide quién gana la partida):**
 

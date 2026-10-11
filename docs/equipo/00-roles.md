@@ -24,6 +24,7 @@ Qué hace un Scrum Master en este proyecto:
 - Mantiene el tablero de Trello al día y vigila que nadie tenga más de 2 tarjetas en progreso a la vez.
 - Protege al equipo de meter más alcance del que cabe en el tiempo (evita "cosas imposibles").
 - Desde el 27-sep también cubre el trabajo operativo diario del Product Owner mientras Guillermo Martínez está en Flutter: refinar backlog, bocetos, criterios de aceptación y preparar playtests.
+- Desarrolla el front de la PWA (interfaz en React) junto al backend de G. González.
 
 ## Developers — Hugo, G. González, Jesús, Dylan
 
@@ -37,8 +38,8 @@ Qué hace el equipo de desarrollo en Scrum:
 **Áreas fijas (actualizado 28-sep):**
 
 - **Hugo:** arte 3D (oso, armas, props, escenario), animaciones, VFX.
-- **G. González:** gameplay y arquitectura del videojuego; API/backend de la PWA en Django (post-20-nov); música/SFX junto con Guillermo Martínez.
-- **Jesús:** NPCs con NavMesh, vida/daño/respawn, detección y puntos; documentación técnica; co-desarrolla la app en Flutter con Guillermo Martínez (post-20-nov).
+- **G. González:** gameplay y arquitectura del videojuego; API/backend de la PWA en Django (listo para el 13-nov); música/SFX junto con Guillermo Martínez.
+- **Jesús:** NPCs con NavMesh, vida/daño/respawn, detección y puntos; documentación técnica; co-desarrolla la app en Flutter (wiki del juego) con Guillermo Martínez (lista para el 13-nov).
 - **Dylan (Lead técnico de integración y red):** configura y mantiene Photon, sincronización, integración de todos los sistemas, build final, HUD y menús, y además la publicación en Steam (post-20-nov, junto con Ángel) — es el desarrollador que más sistemas distintos conecta entre sí, por eso es el referente técnico del equipo para dudas de integración.
 
   > ⚠️ **Pendiente del equipo (4-oct):** Dylan no tiene cuenta en el tablero de Trello (no aparece en la lista de miembros), por lo que ninguna tarjeta se le puede asignar como responsable real, solo mencionarlo por nombre en el texto. Además, no tuvo participación activa en la Fase 1 — su tarjeta "Configurar Photon PUN2" terminó resuelta por G. González. El equipo le asignó una tarea nueva hoy (diseño del HUD) para que empiece a aportar; ver [sprint Fase 1](03-sprint-fase1.md) y [cronograma](../04-cronograma-fases.md). Se recomienda invitarlo al tablero de Trello cuanto antes.

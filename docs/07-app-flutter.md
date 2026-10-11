@@ -7,23 +7,28 @@
 
 Ya **no** es un extra post-entrega: se necesita lista, junto con el videojuego, para la presentación del 20-nov.
 
-## Alcance mínimo (MVP)
+## Alcance (actualizado 10-oct-2026)
 
-Una sola pantalla que muestra la tabla de ranking, **sin login ni navegación extra**. Depende de la API de la PWA ([06-pwa.md](06-pwa.md)) para los datos reales, pero arranca antes usando datos de prueba (mock) para no bloquear el desarrollo.
+La app es una **wiki del juego**: información de Little Bearstards para consultar desde el celular.
+
+- **No se conecta con la API de la PWA** y no muestra el ranking ni estadísticas de jugadores.
+- Por eso ya no depende del backend de G. González y se puede terminar sin esperar al 2-nov.
+
+> **Por definir con Guillermo Martínez:** las secciones de la wiki y su calendario detallado.
 
 ## Calendario
 
 | Cuándo | Qué se hace |
 |---|---|
-| Ahora (Fase 1, desde 28-sep) | Crear el proyecto Flutter y armar la pantalla de ranking con datos de prueba (mock) — Guillermo Martínez |
-| 5-oct al 1-nov | Pulir la interfaz con datos de prueba, sin depender todavía de la PWA real — Guillermo Martínez |
-| Semana 2–8 nov | Conectar la pantalla a la API real de la PWA en cuanto G. González la tenga lista — Guillermo Martínez |
-| Semana 9–13 nov | Probar con datos reales de partidas y generar un build de prueba (APK) — Guillermo Martínez y Jesús |
-| 17-nov (buffer) | Prueba final del app con datos reales de los playtests |
+| Fase 1 (desde 28-sep) | Proyecto Flutter creado (cerrado el 9-oct, con pantallas de prueba de la versión anterior del alcance) — Guillermo Martínez |
+| 10-oct | Cambio de alcance: la app pasa a ser una wiki del juego, sin conexión con la API |
+| Hasta el 13-nov | Construir las secciones de la wiki y generar un build de prueba (APK) — Guillermo Martínez y Jesús |
+| 17-nov (buffer) | Prueba final de la app |
 
-## Por qué arranca antes que la PWA
+## Historial del alcance
 
-Guillermo Martínez tiene más disponibilidad (solo PO + audio del juego, ninguna tarea de desarrollo del core), así que construye la interfaz con datos inventados desde la primera semana. Cuando G. González tenga la API real lista (2-nov en adelante), solo falta conectar la pantalla ya construida — esto reduce el riesgo de que ambos equipos (PWA y app) se bloqueen mutuamente cerca de la fecha límite.
+- **Versión anterior (hasta el 9-oct):** una sola pantalla con la tabla de ranking, sin login, que iba a leer los datos reales de la API de la PWA y arrancaba con datos de prueba.
+- **Versión vigente (10-oct):** wiki del juego, sin conexión con la API.
 
 ## Jesús se suma
 

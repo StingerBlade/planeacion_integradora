@@ -2,7 +2,7 @@
 
 Registro de lo que se logró en cada sprint, tomado del tablero de Trello (**Little Bearstards - Proyecto Integrador**) y de los repositorios. Se agrega una sección por sprint al cerrarlo; el sprint en curso se actualiza en cada review.
 
-*Última actualización: 9-oct-2026.*
+*Última actualización: 10-oct-2026.*
 
 ---
 
@@ -77,6 +77,8 @@ Backlog priorizado por el PO (línea de corte tras F2-06):
 **Avance al 9-oct:** ninguna tarjeta F2 se ha movido a Hecho todavía. Review del sprint: 18-oct.
 
 **Fuera del plan original pero avanzado:** el proyecto de la PWA (React + Vite + PWA plugin) y el proyecto Flutter ya arrancaron, antes del 2-nov previsto para la PWA.
+
+**10-oct:** se definieron la arquitectura de la PWA (Base: un solo servicio Django + Supabase), el modelo de datos, las sesiones con token para la PWA y Unity, los endpoints y la guía de estilos; se maquetó la propuesta de interfaz. Partidas fijas de 10 minutos, login obligatorio, empate como resultado y derrota por abandono. La app Flutter pasa a ser una wiki del juego, sin conexión con la API. Ver [03-decisiones.md](../03-decisiones.md).
 
 ---
 [← Hecho](05-hecho.md) · [Índice general](../game-design/00-indice.md)

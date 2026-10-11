@@ -6,12 +6,12 @@ El proyecto se divide en 5 fases del videojuego, que corren en paralelo con el d
 
 | Hito | Fecha | Qué se entrega |
 |---|---|---|
-| Arranca desarrollo del App Flutter | **28-sep-2026** | Guillermo Martínez crea el proyecto Flutter y la pantalla de ranking con datos de prueba |
+| Arranca desarrollo del App Flutter | **28-sep-2026** | Guillermo Martínez crea el proyecto Flutter (desde el 10-oct la app es una wiki del juego, sin conexión con la API) |
 | Cierre Fase 1 — Diseño y escenario | **4-oct-2026** | GDD v1, repo Unity listo, concept art aprobado, prototipo de NPC y de conexión Photon funcionando |
 | Cierre Fase 2 — Osos y escenario jugable | **18-oct-2026** | Oso jugable con animaciones en el escenario de 3 pasillos, primera sincronización en red probada |
 | Arranca el código real de la PWA | **2-nov-2026** | G. González empieza el proyecto Django (antes solo tenía el boceto del esquema de datos) |
 | Cierre Fase 3 — Núcleo PvP completo | **1-nov-2026** | Duelo 1v1 jugable completo entre 2 computadoras distintas, conectadas por Photon |
-| Cierre Fase 4 — Primera versión jugable | **13-nov-2026** | Build jugable completo con HUD, menús, NPCs y armas. **También deben estar listos, con datos reales conectados: la PWA y el app Flutter.** |
+| Cierre Fase 4 — Primera versión jugable | **13-nov-2026** | Build jugable completo con HUD, menús, NPCs y armas. **También deben estar listos la PWA (con datos reales conectados) y la app Flutter (wiki del juego).** |
 | **ENTREGA FINAL** | **20-nov-2026 (viernes)** | Juego + PWA + app Flutter + documentación |
 
 ## Fase 1 — Diseño y escenario (28-sep al 4-oct)

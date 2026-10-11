@@ -10,7 +10,7 @@
 - **Motor:** Unity
 - **Jugadores:** 2 (1v1)
 - **Red:** en línea vía Photon PUN2
-- **Duración:** 10–15 min
+- **Duración:** 10 min
 - **Edad sugerida:** +13
 
 ## 2. Historia y premisa
@@ -45,7 +45,7 @@ Jugadores +13, en PC, partidas competitivas cortas de sigilo y deducción social
 
 > Regla única, confirmada por Guillermo Martínez (PO) con la hoja de balance del equipo.
 
-La partida dura **10–15 minutos** y **gana quien tenga más puntos** al agotarse el tiempo. Al ser eliminado, el jugador **respawnea** en un punto aleatorio con 100 de vida y la partida sigue — no es muerte súbita.
+La partida dura **10 minutos** y **gana quien tenga más puntos** al agotarse el tiempo. Al ser eliminado, el jugador **respawnea** en un punto aleatorio con 100 de vida y la partida sigue — no es muerte súbita.
 
 **Puntaje** (decide quién gana la partida):
 - Kill normal: **+200**
@@ -99,7 +99,7 @@ Un único escenario: **"La Juguetería"**, dividido en 3 pasillos. Estanterías 
 
 > Regla única, confirmada por Guillermo Martínez (PO) con la hoja de balance del equipo.
 
-La partida dura **10–15 minutos** y **gana quien tenga más puntos** al agotarse el tiempo. Al ser eliminado, el jugador **respawnea** y la partida sigue — no es muerte súbita, es combate continuo durante toda la duración de la partida.
+La partida dura **10 minutos** y **gana quien tenga más puntos** al agotarse el tiempo. Al ser eliminado, el jugador **respawnea** y la partida sigue — no es muerte súbita, es combate continuo durante toda la duración de la partida.
 
 **Puntaje** (decide quién gana la partida):
 - Kill normal: **+200**

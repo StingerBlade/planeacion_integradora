@@ -28,6 +28,24 @@ El equipo usará **Photon PUN2** para el multiplayer en línea. Se descartaron: 
 
 Usar marcas parodia u originales en los osos, no marcas reales (riesgo legal si se publica el juego). Revisar la licencia de Comic Sans; alternativa libre casi idéntica: **Comic Neue**.
 
+### PWA, datos y sesiones (10-oct-2026)
+
+**Responsables:** Angel (front de la PWA) y G. González (backend/API). Detalle en [06-pwa.md](06-pwa.md).
+
+- **Partidas de 10 minutos fijos.** Ya no es un rango de 10–15 min; por eso la base de datos no guarda la duración.
+- **Login obligatorio para jugar en línea.** La PWA tiene cuentas de usuario (antes el MVP era "sin cuentas") y la misma cuenta sirve en la PWA y en el juego.
+- **Sesiones con Token de Django REST Framework**, el mismo sistema para la PWA y para Unity. Se descartaron JWT (Unity tendría que renovar el token), la sesión por cookie (incómoda en Unity) y Supabase Auth (Supabase se usa solo como base de datos).
+- **Empate:** si los dos jugadores terminan con los mismos puntos, es empate y se cuenta aparte de victorias y derrotas.
+- **Abandono:** quien abandona pierde automáticamente; el jugador que se queda reporta la partida.
+- **Los datos se envían solo al terminar la partida.** Los dos clientes envían el mismo reporte y el servidor registra la partida una sola vez (`match_id` único).
+- **Datos que se manejan:** usuario, contraseña (con hash), partidas, victorias, derrotas, empates, kills, puntos totales y mejor puntuación por jugador, más el historial por partida. No se manejan correo, rachas, logros ni rankings por periodo.
+- **Arquitectura Base:** un solo servicio Django en Render que sirve la API y la PWA, con PostgreSQL en Supabase.
+- **Estilo visual de la PWA:** neobrutalismo cartoon, con tipografías Lilita One y Fredoka. El juego mantiene su propia tipografía (Comic Neue).
+
+### App Flutter: wiki del juego (10-oct-2026)
+
+La app de Flutter pasa a ser una **wiki del juego** y **no se conecta con la API** de la PWA (antes iba a mostrar el ranking). Ver [07-app-flutter.md](07-app-flutter.md).
+
 ## Decisiones pendientes (con fecha límite)
 
 ### Confirmar entregables oficiales con la profesora
@@ -61,5 +79,5 @@ Para la entrega del 20-nov se distribuye el build por **itch.io** o un link de d
 
 - **Contenido del MVP (U1E4, 4-oct-2026):** armas, daño, objetos, vestimenta, fases y tabla Esencial/Deseable quedaron cerrados en el documento de diseño U1E4. Resumen en [entregas/u1e4-documento-diseno.md](entregas/u1e4-documento-diseno.md).
 
-- **Condición de victoria:** la partida dura 10-15 min y **gana quien tenga más puntos** al agotarse el tiempo; al morir, el jugador respawnea y el combate continúa (no es muerte súbita). Confirmado por Guillermo Martínez (PO) con la hoja de balance del equipo — ver [05-gdd-v1.md · Sección 6](05-gdd-v1.md#6-puntos-y-condiciones-de-victoriaderrota). Esto resuelve una contradicción entre los documentos originales del equipo (uno hablaba de "gana quien tenga más puntos al final del tiempo", otro de "ser el último en pie") a favor de la primera versión.
+- **Condición de victoria:** la partida dura **10 minutos** (fijo desde el 10-oct; antes era un rango de 10-15 min) y **gana quien tenga más puntos** al agotarse el tiempo; al morir, el jugador respawnea y el combate continúa (no es muerte súbita). Confirmado por Guillermo Martínez (PO) con la hoja de balance del equipo — ver [05-gdd-v1.md · Sección 6](05-gdd-v1.md#6-puntos-y-condiciones-de-victoriaderrota). Esto resuelve una contradicción entre los documentos originales del equipo (uno hablaba de "gana quien tenga más puntos al final del tiempo", otro de "ser el último en pie") a favor de la primera versión.
 - **Oso "policía" (IA que vigila agresión a NPCs):** descartado del MVP. Ver [08-post-entrega-y-fuera-del-mvp.md](08-post-entrega-y-fuera-del-mvp.md).

@@ -6,11 +6,11 @@ Este índice reúne todo lo acordado por el equipo, tomado directo del tablero d
 
 > Ver también [game-design/00-indice.md](game-design/00-indice.md) (ficha de concepto, beat sheet, huecos argumentales), [equipo/00-roles.md](equipo/00-roles.md) y [portafolio-1/00-indice.md](portafolio-1/00-indice.md) (snapshot más antiguo, con el cronograma tal como lo planteó originalmente el Portafolio 1 académico, distinto al cronograma vigente de abajo).
 
-## Estado actual (9-oct-2026)
+## Estado actual (10-oct-2026)
 
 - **Sprint 1 (Fase 1) cerrado:** GDD v1.0, arquitectura Unity, prototipo de NPC, Photon PUN2, balance y backlog, documento U1E4. Arrastrados: concept art/escenario, diseño del HUD, confirmación con la profesora y Plan B de Photon. Detalle en el [histórico de sprints](equipo/07-historico-sprints.md).
 - **Sprint 2 (Fase 2) en curso**, cierra el 18-oct.
-- App Flutter y PWA ya arrancaron (ver [PWA](06-pwa.md) y [Flutter](07-app-flutter.md)).
+- App Flutter y PWA ya arrancaron. El 10-oct se definieron la arquitectura, el modelo de datos, las sesiones y el diseño de la PWA, y la app Flutter pasó a ser una wiki del juego (ver [PWA](06-pwa.md), [Flutter](07-app-flutter.md) y [decisiones](03-decisiones.md)).
 
 ## Índice
 
@@ -19,8 +19,8 @@ Este índice reúne todo lo acordado por el equipo, tomado directo del tablero d
 3. [Decisiones (tomadas y pendientes)](03-decisiones.md)
 4. [Cronograma y fases](04-cronograma-fases.md)
 5. [GDD v1.0 — Documento de diseño del juego](05-gdd-v1.md)
-6. [PWA de ranking](06-pwa.md)
-7. [App móvil (Flutter)](07-app-flutter.md)
+6. [PWA](06-pwa.md)
+7. [App móvil (Flutter) — wiki del juego](07-app-flutter.md)
 8. [Después de la entrega (Steam) y fuera del MVP](08-post-entrega-y-fuera-del-mvp.md)
 9. [Repositorio, Git y CI/CD](09-repositorio-ci-cd.md)
 10. [Semana de colchón (14–20 nov), día por día](10-semana-colchon.md)
@@ -32,7 +32,7 @@ Este índice reúne todo lo acordado por el equipo, tomado directo del tablero d
 | Repo | Contenido |
 |---|---|
 | [StingerBlade/planeacion_integradora](https://github.com/StingerBlade/planeacion_integradora) | Planeación y documentación (este repo) |
-| [StingerBlade/BEARSTARDS_PWA](https://github.com/StingerBlade/BEARSTARDS_PWA) | PWA de ranking (React + Vite + PWA plugin en `ui/`) |
+| [StingerBlade/BEARSTARDS_PWA](https://github.com/StingerBlade/BEARSTARDS_PWA) | PWA: ranking, cuentas y API del juego (React + Vite en `ui/`, Django en `backend/`) |
 | [KonigAstaroth/Bearstards](https://github.com/KonigAstaroth/Bearstards) | Videojuego en Unity |
 
 ## Fuente de verdad

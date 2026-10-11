@@ -28,6 +28,7 @@ Qué hace un Scrum Master en este proyecto:
 - Mantiene el tablero de Trello al día y vigila que nadie tenga más de 2 tarjetas en progreso a la vez.
 - Protege al equipo de meter más alcance del que cabe en el tiempo (evita "cosas imposibles").
 - Desde el 27-sep también cubre el trabajo operativo diario del Product Owner mientras Guillermo Martínez está en Flutter: refinar backlog, bocetos, criterios de aceptación y preparar playtests.
+- Desarrolla el front de la PWA (interfaz en React) junto al backend de G. González.
 
 ## Developers — Hugo, G. González, Jesús, Dylan
 
@@ -42,7 +43,7 @@ Qué hace el equipo de desarrollo en Scrum:
 
 - **Hugo:** arte 3D (oso, armas, props, escenario), animaciones, VFX.
 - **G. González:** gameplay y arquitectura del videojuego; API/backend de la PWA en Django (listo para el 13-nov); música/SFX junto con Guillermo Martínez.
-- **Jesús:** NPCs con NavMesh, vida/daño/respawn, detección y puntos; documentación técnica; co-desarrolla la app en Flutter con Guillermo Martínez (listo para el 13-nov).
+- **Jesús:** NPCs con NavMesh, vida/daño/respawn, detección y puntos; documentación técnica; co-desarrolla la app en Flutter (wiki del juego) con Guillermo Martínez (lista para el 13-nov).
 - **Dylan (Lead técnico de integración y red):** configura y mantiene Photon, sincronización, integración de todos los sistemas, build final, HUD y menús, y además la publicación en Steam (**confirmado:** se queda fuera del 20-nov, se hace después de la entrega, junto con Angel).
 
 ### Nota sobre carga de trabajo (riesgo, señalado por el Scrum Master)

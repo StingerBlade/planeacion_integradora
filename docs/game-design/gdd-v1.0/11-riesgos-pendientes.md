@@ -4,7 +4,7 @@
 
 - Multijugador en línea vía Photon PUN2 (no local).
 - Sin oso policía / IA de vigilancia; solo penalización de -50 puntos por dañar a un NPC.
-- Condición de victoria única: **por puntaje al agotarse el temporizador** (10-15 min), con respawn tras cada eliminación — no es muerte súbita. Confirmado por el PO con la hoja de balance, ver [Sección 6](06-puntos-condiciones-victoria.md).
+- Condición de victoria única: **por puntaje al agotarse el temporizador** (10 min), con respawn tras cada eliminación — no es muerte súbita. Confirmado por el PO con la hoja de balance, ver [Sección 6](06-puntos-condiciones-victoria.md).
 
 - Contenido del MVP cerrado en el documento de diseño U1E4 (4-oct): armas, daño, objetos, vestimenta, fases y tabla de alcance Esencial/Deseable. Ver [entregas/u1e4-documento-diseno.md](../../entregas/u1e4-documento-diseno.md).
 
