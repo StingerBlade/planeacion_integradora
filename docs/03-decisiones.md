@@ -40,11 +40,19 @@ Usar marcas parodia u originales en los osos, no marcas reales (riesgo legal si 
 - **Los datos se envían solo al terminar la partida.** Los dos clientes envían el mismo reporte y el servidor registra la partida una sola vez (`match_id` único).
 - **Datos que se manejan:** usuario, contraseña (con hash), partidas, victorias, derrotas, empates, kills, puntos totales y mejor puntuación por jugador, más el historial por partida. No se manejan correo, rachas, logros ni rankings por periodo.
 - **Arquitectura Base:** un solo servicio Django en Render que sirve la API y la PWA, con PostgreSQL en Supabase.
-- **Estilo visual de la PWA:** neobrutalismo cartoon, con tipografías Lilita One y Fredoka. El juego mantiene su propia tipografía (Comic Neue).
+- **Estilo visual de la PWA:** neobrutalismo cartoon, con tipografías Lilita One y Fredoka. El juego mantiene su propia tipografía (Taste Bread).
 
 ### App Flutter: wiki del juego (10-oct-2026)
 
 La app de Flutter pasa a ser una **wiki del juego** y **no se conecta con la API** de la PWA (antes iba a mostrar el ranking). Ver [07-app-flutter.md](07-app-flutter.md).
+
+### Interfaz del juego (25-oct-2026)
+
+Tomado de la [Evidencia 2](entregas/evidencia-2-interfaz-estado-juego.md).
+
+- **Pantalla de resultados con render animado:** los osos de peluche hacen una animación de victoria o derrota (o se muestra un mensaje de empate). Reemplaza al baúl de juguetes y la basura. Acordado por todo el equipo. El render ya está hecho; falta mostrarlo al llegar a 00:00.
+- **Sin pausa en el MVP:** en un duelo en línea, pausar dejaría al otro jugador esperando y afectaría el balance. El reinicio es volver al menú desde la pantalla de resultados.
+- **Tipografía del juego: Taste Bread.** Reemplaza a Comic Sans / Comic Neue.
 
 ## Decisiones pendientes (con fecha límite)
 

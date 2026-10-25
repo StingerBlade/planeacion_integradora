@@ -6,7 +6,7 @@
 
 **Rostro de los osos jugadores.** Única diferencia visual con los NPCs: cejas fruncidas y gesto de enojo. Es sutil; de lejos se ven iguales y solo de cerca se nota, lo que premia al jugador que observa con cuidado.
 
-**Tipografía.** Basada en Comic Sans; alternativa libre casi idéntica bajo licencia abierta: Comic Neue.
+**Tipografía.** Taste Bread (gruesa, estilo cartoon), la que usan el menú y el HUD. *(Antes: Comic Sans, con Comic Neue como alternativa libre.)*
 
 **Interfaz.** Incluye diseño de fondo y voces para los personajes (voces y música: Deseable). HUD mínimo con estética de peluche: botones naranja con borde de puntada, colores cálidos (naranja y café) y la vida como un ovillo y una hebra de estambre rojo. Detalle en la [Evidencia 2](../../entregas/evidencia-2-interfaz-estado-juego.md).
 

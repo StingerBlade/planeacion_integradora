@@ -15,7 +15,7 @@
 
 ## 2. Historia y premisa
 
-Una juguetería en transición a tienda de videojuegos está por cerrar. En el último pasillo quedan los últimos osos de peluche sin vender; de noche cobran consciencia y descubren que serán incinerados si no son vendidos antes del cierre. Deciden eliminarse entre sí para ser el único superviviente y así ser comprados. Las armas están repartidas por los pasillos; los jugadores pueden mezclarse entre NPCs para ocultar su identidad. El ganador termina en el baúl de juguetes (vendido); el perdedor en la basura (desechado).
+Una juguetería en transición a tienda de videojuegos está por cerrar. En el último pasillo quedan los últimos osos de peluche sin vender; de noche cobran consciencia y descubren que serán incinerados si no son vendidos antes del cierre. Deciden eliminarse entre sí para ser el único superviviente y así ser comprados. Las armas están repartidas por los pasillos; los jugadores pueden mezclarse entre NPCs para ocultar su identidad. El resultado se muestra con un render de los osos animados (victoria, derrota o empate); antes del 25-oct era el baúl de juguetes (ganador) y la basura (perdedor).
 
 ## 3. Público objetivo
 
@@ -78,7 +78,7 @@ Un único escenario: **"La Juguetería"**, dividido en 3 pasillos. Estanterías 
 - Low poly.
 - Vestimenta: **no aplica como mecánica**; todos los osos comparten modelo con marcas y accesorios parodia (nunca marcas reales). Los boosts no se ven como ropa.
 - Rostro de los osos jugadores: gesto de enojo sutil, solo visible de cerca.
-- Tipografía base Comic Sans (alternativa libre: **Comic Neue**).
+- Tipografía: **Taste Bread** (antes Comic Sans / Comic Neue).
 - Interfaz con fondo propio y voces de personajes. HUD mínimo con estética de peluche; la vida se muestra con un ovillo y una hebra de estambre (ver [Evidencia 2](entregas/evidencia-2-interfaz-estado-juego.md)).
 - Animación ragdoll al correr.
 

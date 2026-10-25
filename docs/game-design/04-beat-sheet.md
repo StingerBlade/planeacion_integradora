@@ -9,7 +9,7 @@
 | 5 | Evento relevante: aparece una pistola de dardos con tachuelas anunciada (munición limitada, x2 puntos) que puede "dar la vuelta a la partida" | Aprovechar la ventaja temporal | Se abre una oportunidad decisiva |
 | 6 | Los escondites disminuyen y el encuentro se vuelve cada vez más inevitable | Sobrevivir al choque directo | Pasa de sigilo a confrontación abierta |
 | 7 | Un jugador elimina al otro (incluye la posibilidad de golpe a la cabeza = oneshot) | Ser el que queda en pie | Se decide quién sobrevive |
-| 8 | Resolución dibujada en el storyboard: el ganador termina en el "baúl de juguetes" (victoria, será comprado); el perdedor termina en la "basura", roto y desechado (derrota) | Escapar de la incineración | Cierre narrativo y mecánico de la partida |
+| 8 | Resolución: render de los osos animados mostrando la victoria o la derrota, o un mensaje de empate *(el storyboard original dibujaba el "baúl de juguetes" para el ganador y la "basura" para el perdedor; reemplazado el 25-oct-2026)* | Escapar de la incineración | Cierre narrativo y mecánico de la partida |
 
 ---
 [← Cadena causal](03-cadena-causal.md) · [Índice](00-indice.md) · [Siguiente: Matriz de información →](05-matriz-informacion.md)

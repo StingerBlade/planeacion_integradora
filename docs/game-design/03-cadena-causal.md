@@ -16,7 +16,7 @@ A CAUSA DE que el número de escondites y oportunidades disminuye conforme avanz
 
 COMO CONSECUENCIA final, quien elimina primero al otro (por combate directo, incluyendo el golpe crítico a la cabeza que es oneshot) gana la partida.
 
-ESTO PROVOCA QUE el superviviente sea colocado en el baúl de juguetes para ser vendido, mientras el derrotado es desechado junto con los juguetes no vendidos.
+ESTO PROVOCA QUE el resultado se muestre en un render animado de los osos: el ganador celebra la victoria y el derrotado muestra la derrota. *(Antes: baúl de juguetes para el ganador y basura para el derrotado; cambiado el 25-oct-2026.)*
 
 ---
 [← Premisa y sinopsis](02-premisa-sinopsis.md) · [Índice](00-indice.md) · [Siguiente: Beat sheet →](04-beat-sheet.md)

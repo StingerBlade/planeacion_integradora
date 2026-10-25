@@ -92,7 +92,7 @@ Dylan programa el HUD y los menús (además de la sala/lobby de Photon); Guiller
 - Angel: coordinar la integración, anotar pendientes para la Fase 5.
 
 **Semana 6 (9–13 nov):**
-- Dylan: menús de inicio, pausa y resultado.
+- Dylan: menús de inicio y resultado. *(Sin pausa: se quitó del MVP el 25-oct, ver [decisiones](03-decisiones.md).)*
 - Jesús: ajuste de detección con los NPCs ya en el escenario final.
 - Jesús: enviar el resultado de cada partida al API de la PWA (POST) al terminar el duelo, en cuanto G. González tenga el endpoint listo.
 - G. González: corrección de bugs de combate y armas.

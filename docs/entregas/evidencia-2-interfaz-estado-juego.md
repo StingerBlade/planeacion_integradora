@@ -158,9 +158,11 @@ La interfaz **no calcula reglas**: solo muestra el estado que le entregan los co
 
 ## Registro de cambios
 
-| N.º | Fecha | Cambio | Secciones afectadas |
-| --- | --- | --- | --- |
-| 1 | 25-oct-2026 | Las fases de victoria y derrota se muestran con los osos haciendo una animación en un render, en lugar del baúl de juguetes y la basura | 2.2, 2.7, 7 y 8 |
+| N.º | Fecha | Cambio | Estado | Secciones afectadas |
+| --- | --- | --- | --- | --- |
+| 1 | 25-oct-2026 | Las fases de victoria y derrota se muestran con los osos haciendo una animación en un render, en lugar del baúl de juguetes y la basura | Render hecho; falta activarlo al terminar el tiempo | 2.2, 2.7, 7 y 8 |
+
+> En el PDF, la Tabla 7 marca este cambio como "Pendiente" y la Tabla 1 como "Cambio aplicado". El equipo confirmó el estado de arriba.
 
 **Motivo:** entre un marcador con texto, un panel con íconos o una pantalla estática, el equipo eligió que los osos protagonicen el resultado con una animación en un render. Conserva la estética de peluches y reutiliza la técnica de render del menú principal y la pantalla de carga. Acordado por todo el equipo.
 

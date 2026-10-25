@@ -89,7 +89,7 @@ La guía paso a paso (backend y Unity) se le entregó a G. González en PDF.
 Estilo **neobrutalismo cartoon**, ambientado en una juguetería de noche: bordes gruesos, sombras duras sin difuminar y colores planos y saturados, suavizados con esquinas redondeadas, tipografía juguetona y animaciones. Los osos se muestran en low poly (imágenes provisionales hasta tener los modelos finales del juego).
 
 - **Colores principales:** `night` `#241a55` (fondo), `ink` `#1b1030` (bordes y texto sobre claro), `paper` `#fffaf0` (texto sobre oscuro), `sun` `#ffd23f` (color principal), con acentos `pink` `#ff5fa2`, `sky` `#3ec6ff`, `mint` `#5be3b0` y `tangerine` `#ff8a3d`.
-- **Tipografía de la PWA:** Lilita One (títulos y botones) y Fredoka (texto). El juego mantiene la suya (Comic Neue, ver GDD).
+- **Tipografía de la PWA:** Lilita One (títulos y botones) y Fredoka (texto). El juego mantiene la suya (Taste Bread, ver GDD).
 - Diseño **mobile first** y adaptativo; respeta la preferencia de "reducir movimiento".
 
 La guía completa está en el README del repositorio de la PWA.
