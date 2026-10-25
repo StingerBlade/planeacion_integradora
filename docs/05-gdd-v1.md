@@ -7,7 +7,7 @@
 - **Nombre:** Little Bearstards (alt. Bastardosos)
 - **Género:** Stealth PvP con deducción social y acción
 - **Plataforma:** PC
-- **Motor:** Unity
+- **Motor:** Unity 6.6 (6000.6.3f1)
 - **Jugadores:** 2 (1v1)
 - **Red:** en línea vía Photon PUN2
 - **Duración:** 10 min
@@ -79,7 +79,7 @@ Un único escenario: **"La Juguetería"**, dividido en 3 pasillos. Estanterías 
 - Vestimenta: **no aplica como mecánica**; todos los osos comparten modelo con marcas y accesorios parodia (nunca marcas reales). Los boosts no se ven como ropa.
 - Rostro de los osos jugadores: gesto de enojo sutil, solo visible de cerca.
 - Tipografía base Comic Sans (alternativa libre: **Comic Neue**).
-- Interfaz con fondo propio y voces de personajes.
+- Interfaz con fondo propio y voces de personajes. HUD mínimo con estética de peluche; la vida se muestra con un ovillo y una hebra de estambre (ver [Evidencia 2](entregas/evidencia-2-interfaz-estado-juego.md)).
 - Animación ragdoll al correr.
 
 <details>

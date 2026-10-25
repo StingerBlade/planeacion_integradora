@@ -2,7 +2,7 @@
 
 Registro de lo que se logró en cada sprint, tomado del tablero de Trello (**Little Bearstards - Proyecto Integrador**) y de los repositorios. Se agrega una sección por sprint al cerrarlo; el sprint en curso se actualiza en cada review.
 
-*Última actualización: 10-oct-2026.*
+*Última actualización: 25-oct-2026.*
 
 ---
 
@@ -79,6 +79,23 @@ Backlog priorizado por el PO (línea de corte tras F2-06):
 **Fuera del plan original pero avanzado:** el proyecto de la PWA (React + Vite + PWA plugin) y el proyecto Flutter ya arrancaron, antes del 2-nov previsto para la PWA.
 
 **10-oct:** se definieron la arquitectura de la PWA (Base: un solo servicio Django + Supabase), el modelo de datos, las sesiones con token para la PWA y Unity, los endpoints y la guía de estilos; se maquetó la propuesta de interfaz. Partidas fijas de 10 minutos, login obligatorio, empate como resultado y derrota por abandono. La app Flutter pasa a ser una wiki del juego, sin conexión con la API. Ver [03-decisiones.md](../03-decisiones.md).
+
+---
+
+## Sprint 3 — Fase 3: Núcleo PvP (19-oct al 1-nov) — EN CURSO
+
+**Avance de la interfaz al 25-oct** (según la [Evidencia 2](../entregas/evidencia-2-interfaz-estado-juego.md)):
+
+| Elemento | Estado |
+|---|---|
+| Pantalla de carga, menú principal (Join, Create, Exit Game, Controls) | ✅ Implementado |
+| Temporizador y contador de puntos (panel superior central) | ✅ Implementado |
+| Barra de vida con estambre | ✅ Funcional (daño, rollo de hilo, casco) |
+| Contador de dardos | Diseñado; falta limitar la munición |
+| Mensajes de fase | Diseñado |
+| Pantalla de resultados (render con osos animados) | Render hecho; falta activarla al llegar a 00:00 (la corrección está en otra rama) |
+
+Mejora futura propuesta: pantalla de controles con imágenes y ajustes de volumen.
 
 ---
 [← Hecho](05-hecho.md) · [Índice general](../game-design/00-indice.md)

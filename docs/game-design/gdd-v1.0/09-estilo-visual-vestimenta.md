@@ -8,7 +8,7 @@
 
 **Tipografía.** Basada en Comic Sans; alternativa libre casi idéntica bajo licencia abierta: Comic Neue.
 
-**Interfaz.** Incluye diseño de fondo y voces para los personajes (voces y música: Deseable).
+**Interfaz.** Incluye diseño de fondo y voces para los personajes (voces y música: Deseable). HUD mínimo con estética de peluche: botones naranja con borde de puntada, colores cálidos (naranja y café) y la vida como un ovillo y una hebra de estambre rojo. Detalle en la [Evidencia 2](../../entregas/evidencia-2-interfaz-estado-juego.md).
 
 **Animación.** Movimiento tipo ragdoll (muñeco de trapo / Fall Guys) al correr.
 

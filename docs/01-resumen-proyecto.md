@@ -42,7 +42,7 @@ Asesoras: Prof. Blanca Chavarría / Prof. Mascote (UTCH, IDGS101N).
 
 ## Plataformas y stack técnico
 
-- **Juego:** Unity, C#, Blender, Photon PUN2 (multiplayer online).
+- **Juego:** Unity 6.6 (6000.6.3f1), C#, Blender, Photon PUN2 (multiplayer online). Interfaz con Canvas y TextMeshPro. En el [repo del juego](https://github.com/KonigAstaroth/Bearstards) se prueba desde la rama `develop`, no `main`.
 - **PWA:** React + Vite (front) y Django REST Framework (back), con PostgreSQL en Supabase y hosting en Render.
 - **App móvil:** Flutter (Dart), wiki del juego sin conexión con la API.
 - **Gestión del proyecto:** Trello (tablero "Little Bearstards - Proyecto Integrador").

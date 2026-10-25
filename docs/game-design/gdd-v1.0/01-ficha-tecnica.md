@@ -5,7 +5,7 @@
 | Nombre | Little Bearstards (alt. Bastardosos) |
 | Género | Stealth PvP con deducción social y elementos de acción |
 | Plataforma | PC |
-| Motor | Unity |
+| Motor | Unity 6.6 (6000.6.3f1), proyecto 3D |
 | Jugadores | 2 (1v1) |
 | Modo de red | En línea, Photon PUN2 (decisión del equipo, 27-sep) |
 | Duración de partida | 10 minutos |

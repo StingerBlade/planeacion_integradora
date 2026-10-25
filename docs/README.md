@@ -26,6 +26,7 @@ Este índice reúne todo lo acordado por el equipo, tomado directo del tablero d
 10. [Semana de colchón (14–20 nov), día por día](10-semana-colchon.md)
 11. [Entrega U1E4 — Documento de diseño](entregas/u1e4-documento-diseno.md)
 12. [Histórico de sprints](equipo/07-historico-sprints.md)
+13. [Evidencia 2 — Portafolio de la interfaz y el estado de juego](entregas/evidencia-2-interfaz-estado-juego.md)
 
 ## Repositorios
 
